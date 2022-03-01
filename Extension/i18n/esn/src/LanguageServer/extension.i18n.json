@@ -6,6 +6,10 @@
 {
 	"learn.how.to.install.a.library": "Más información sobre el modo de instalar una biblioteca para este encabezado con vcpkg",
 	"copy.vcpkg.command": "Copie el comando vcpkg para instalar \"{0}\" en el Portapapeles",
+	"more.info.button": "More Info",
+	"ignore.button": "Ignore",
+	"vsix.platform.incompatible": "The C/C++ extension installed does not match your system.",
+	"vsix.platform.mismatching": "The C/C++ extension installed is compatible with but does not match your system.",
 	"client.not.found": "No se encuentra el cliente",
 	"configuration.select.first": "Abra una carpeta primero para seleccionar una configuración",
 	"configuration.provider.select.first": "Abra una carpeta primero para seleccionar un proveedor de configuración",

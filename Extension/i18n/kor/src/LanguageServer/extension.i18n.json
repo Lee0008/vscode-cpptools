@@ -6,6 +6,10 @@
 {
 	"learn.how.to.install.a.library": "vcpkg를 사용하여 이 헤더의 라이브러리를 설치하는 방법 알아보기",
 	"copy.vcpkg.command": "'{0}'을(를) 설치할 vcpkg 명령을 클립보드에 복사",
+	"more.info.button": "More Info",
+	"ignore.button": "Ignore",
+	"vsix.platform.incompatible": "The C/C++ extension installed does not match your system.",
+	"vsix.platform.mismatching": "The C/C++ extension installed is compatible with but does not match your system.",
 	"client.not.found": "클라이언트를 찾을 수 없음",
 	"configuration.select.first": "먼저 구성을 선택할 폴더 열기",
 	"configuration.provider.select.first": "먼저 구성 공급자를 선택할 폴더 열기",

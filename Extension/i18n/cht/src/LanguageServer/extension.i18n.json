@@ -6,6 +6,10 @@
 {
 	"learn.how.to.install.a.library": "了解如何使用 vcpkg 安裝此標頭的程式庫",
 	"copy.vcpkg.command": "將用於安裝 '{0}' 的 vcpkg 命令複製到剪貼簿",
+	"more.info.button": "More Info",
+	"ignore.button": "Ignore",
+	"vsix.platform.incompatible": "The C/C++ extension installed does not match your system.",
+	"vsix.platform.mismatching": "The C/C++ extension installed is compatible with but does not match your system.",
 	"client.not.found": "找不到用戶端",
 	"configuration.select.first": "先開啟資料夾以選取組態",
 	"configuration.provider.select.first": "先開啟資料夾以選取組態提供者",

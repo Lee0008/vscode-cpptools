@@ -6,6 +6,10 @@
 {
 	"learn.how.to.install.a.library": "このヘッダーのライブラリを vcpkg でインストールする方法の詳細",
 	"copy.vcpkg.command": "'{0}' をインストールするための vcpkg コマンドをクリップボードにコピーする",
+	"more.info.button": "More Info",
+	"ignore.button": "Ignore",
+	"vsix.platform.incompatible": "The C/C++ extension installed does not match your system.",
+	"vsix.platform.mismatching": "The C/C++ extension installed is compatible with but does not match your system.",
 	"client.not.found": "クライアントが見つかりませんでした",
 	"configuration.select.first": "構成を選択するには、まずフォルダーを開いてください",
 	"configuration.provider.select.first": "構成プロバイダーを選択するには、まずフォルダーを開いてください",

@@ -6,6 +6,10 @@
 {
 	"learn.how.to.install.a.library": "Découvrir comment installer une bibliothèque pour cet en-tête avec vcpkg",
 	"copy.vcpkg.command": "Copier la commande vcpkg pour installer '{0}' dans le Presse-papiers",
+	"more.info.button": "More Info",
+	"ignore.button": "Ignore",
+	"vsix.platform.incompatible": "The C/C++ extension installed does not match your system.",
+	"vsix.platform.mismatching": "The C/C++ extension installed is compatible with but does not match your system.",
 	"client.not.found": "client introuvable",
 	"configuration.select.first": "Commencer par ouvrir un dossier pour sélectionner une configuration",
 	"configuration.provider.select.first": "Commencer par ouvrir un dossier pour sélectionner un fournisseur de configuration",
